@@ -1,0 +1,21 @@
+/* Center the button on the page */
+.login-container {
+    text-align: center; /* Centers the button horizontally */
+    margin-top: 100px; /* Adds space from the top */
+}
+
+/* Style the button */
+.login-button {
+    background-color: #1DA1F2; /* Change this to match 'X' branding */
+    color: white; /* White text color */
+    border: none; /* Remove default border */
+    padding: 10px 20px; /* Add space inside the button */
+    font-size: 16px; /* Make text readable */
+    cursor: pointer; /* Show pointer on hover */
+    border-radius: 5px; /* Slightly round corners */
+}
+
+/* Add hover effect */
+.login-button:hover {
+    background-color: #0d8ddc; /* Darker blue when hovered */
+}
