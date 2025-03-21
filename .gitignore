@@ -1,2 +1,8 @@
 # Ignore prompt files
 *prompts.md
+
+# Ignore images
+*.jpg
+*.jpeg
+*.png
+*.ico
