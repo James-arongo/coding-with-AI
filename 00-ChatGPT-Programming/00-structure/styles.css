@@ -14,3 +14,7 @@ header, footer {
 main {
     padding: 20px;
 }
+
+h1, h2 {
+    font-size: 32px;
+}
