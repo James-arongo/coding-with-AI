@@ -1,0 +1,43 @@
+/* Apply a clean and neutral background with earthy tones */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #F4ECE1; /* Light beige for a warm feel */
+    text-align: center;
+}
+
+/* Style the hero section */
+.hero {
+    padding: 50px 20px;
+    background-color: #DDD4C0; /* Soft neutral tone */
+    color: #3D3D3D; /* Dark gray text for readability */
+}
+
+/* Style the main heading */
+.hero h1 {
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+/* Style the paragraph */
+.hero p {
+    font-size: 1.2em;
+    margin-bottom: 20px;
+}
+
+/* Style the call-to-action button */
+.cta-button {
+    display: inline-block;
+    background-color: #8C7B6D; /* Earthy brown tone */
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 1.2em;
+}
+
+/* Add hover effect to the button */
+.cta-button:hover {
+    background-color: #6F6357; /* Darker brown for effect */
+}
